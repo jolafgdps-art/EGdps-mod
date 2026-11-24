@@ -9,7 +9,7 @@ import org.json.JSONObject;
 
 public class ModLoader {
     public static final String VERSION = "1.0.0";
-    public static final String REPO = "TU_USUARIO/TU_REPO"; // <-- cambialo
+    public static final String REPO = "jolafgdps-art/EGdps-mod";
     static boolean started = false;
 
     public static void init(final Activity a) {
